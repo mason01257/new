@@ -1,0 +1,3 @@
+While true do
+game.Replicatedstorage.Mainevent:firesever("stomp")
+End
